@@ -27,7 +27,3 @@ limitations under the License.
   resize: none;
   outline: none;
 }
-.textarea:focus {
-  background-color: #fff;
-  color: #454545;
-}
