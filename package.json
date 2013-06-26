@@ -1,7 +1,7 @@
 {
   "name": "textarea",
   "version": "0.0.0",
-  "description": "TopCoat textarea base",
+  "description": "Topcoat textarea base",
   "main": "textarea-base.css",
   "topcoat": {
     "utils": {
@@ -24,7 +24,7 @@
     "base",
     "adobe"
   ],
-  "author": "@an_rei Andrei Oprea",
+  "author": "@ndreio Andrei Oprea",
   "license": "Apache",
   "devDependencies": {
     "grunt-contrib-watch": "*",
