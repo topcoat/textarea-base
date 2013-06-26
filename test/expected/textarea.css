@@ -14,16 +14,9 @@ limitations under the License.
 */
 
 .textarea {
-  vertical-align: top;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
   box-sizing: border-box;
-  padding: 10px 20px;
-  border-radius: 6px;
-  margin: 5px;
-  font: 1em "Source Sans", helvetica, arial, sans-serif;
-  font-weight: 200;
-  line-height: 1.5em;
+  background-clip: padding-box;
+  vertical-align: top;
   resize: none;
   outline: none;
 }
