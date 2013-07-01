@@ -1,6 +1,6 @@
 {
   "name": "textarea",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "TopCoat textarea base",
   "main": "textarea-base.css",
   "topcoat": {
