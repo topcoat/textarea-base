@@ -24,8 +24,8 @@
     "reset",
     "adobe"
   ],
-  "author": "@ndreio Andrei Oprea",
-  "license": "Apache",
+  "author": "@dam Kristofer Joseph",
+  "license": "Apache2",
   "devDependencies": {
     "grunt-contrib-stylus": "~0.6.0",
     "grunt": "~0.4.1",

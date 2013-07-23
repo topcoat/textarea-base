@@ -18,12 +18,12 @@
 
 /*global require, describe, it*/
 
-'use strict';
 
 var grunt = require('grunt'),
     assert = require('assert');
 
 describe('textarea-base', function() {
+    'use strict';
 
     it('should create expected css file', function() {
         var actual = grunt.file.read('css/textarea.css');

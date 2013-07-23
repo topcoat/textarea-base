@@ -1,4 +1,7 @@
-textarea-base
-=============
+Topcoat Textarea Base
+====================
 
-TopCoat textarea base
+Text area reset styles.
+Uses topcoat-utils.
+
+[![NPM](https://nodei.co/npm/topcoat-textarea-base.png)](https://nodei.co/npm/topcoat-textarea-base/)
