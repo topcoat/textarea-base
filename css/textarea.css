@@ -28,3 +28,8 @@
   resize: none;
   outline: none;
 }
+.textarea:disabled {
+  opacity: 0.3;
+  cursor: default;
+  pointer-events: none;
+}
